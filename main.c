@@ -2,6 +2,7 @@
 
 void main(void)
 {
-   printf("this is a test!");
-
+   //printf("this is a test!");
+   int aa
+   printf("aa id %d",aa);
 }
